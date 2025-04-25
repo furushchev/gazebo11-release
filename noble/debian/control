@@ -65,7 +65,7 @@ Homepage: http://gazebosim.org
 
 Package: gazebo11-common
 Architecture: all
-Depends: ttf-dejavu-core, ${misc:Depends}
+Depends: fonts-dejavu-core, ${misc:Depends}
 Multi-Arch: foreign
 Conflicts: gazebo6-common,
            gazebo6-common-prerelease,
